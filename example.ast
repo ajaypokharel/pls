@@ -1,0 +1,23 @@
+[
+  {
+    "type": "var_assignment",
+    "varname": [
+      "n"
+    ],
+    "value": 1
+  },
+  {
+    "type": "var_assignment",
+    "varname": [
+      "a"
+    ],
+    "value": {
+      "type": "binary_expression",
+      "left": 1,
+      "operator": "+",
+      "right": [
+        "b"
+      ]
+    }
+  }
+]

@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "my-package": "file:/./tmp/pls-1.0.0.tgz",
+    "mz": "^2.7.0",
     "nearley": "^2.20.1"
   }
 }
